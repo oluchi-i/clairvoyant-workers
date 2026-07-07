@@ -75,7 +75,7 @@ RECOMMENDED ACTION: The judge should immediately issue a red card to the athlete
 ## Related Project
 
 See the full computer vision implementation of CLAIRVOYANT:
-🔗 https://seniorproject.cci.drexel.edu/project/d3cef0ae-99f5-4f68-b49f-da608abee3db/
+...
 
 ---
 
