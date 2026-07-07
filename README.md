@@ -19,7 +19,7 @@ The app returns a structured verdict: RED CARD, WARNING, or NO VIOLATION — wit
 
 ## Why I Built This
 
-This app extends my Drexel University senior research project — also named CLAIRVOYANT — where I built a Python/OpenCV computer vision pipeline that analyzed race walk athlete footage frame-by-frame to detect violations automatically, achieving 96%+ accuracy on the primary detection class.
+This app extends a Senior Research project, also named CLAIRVOYANT, where we built a Python/OpenCV computer vision pipeline that analyzed race walk athlete footage frame-by-frame to detect violations automatically, achieving a high accuracy on the primary detection class.
 
 This Cloudflare Workers version brings that same domain expertise to a serverless AI platform, replacing the CV pipeline with a natural language interface powered by Cloudflare Workers AI (Llama 3.3 70B).
 
