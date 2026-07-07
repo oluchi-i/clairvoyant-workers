@@ -1,4 +1,4 @@
-# CLAIRVOYANT — Race Walk Violation Detector
+# CLAIRVOYANT ~ Race Walk Violation Detector
 
 > AI-powered race walking rule violation analyzer built on Cloudflare Workers AI
 
