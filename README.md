@@ -8,12 +8,12 @@
 
 ## What It Does
 
-CLAIRVOYANT analyzes race walking athlete movement descriptions and automatically detects rule violations based on World Athletics Laws — the same two rules enforced in Olympic competition:
+CLAIRVOYANT analyzes race walking athlete movement descriptions and automatically detects rule violations based on World Athletics Laws, the same two rules enforced in Olympic competition:
 
 - **Loss of Contact**: both feet leaving the ground simultaneously
 - **Bent Knee**: advancing leg not straightened at ground contact
 
-The app returns a structured verdict: RED CARD, WARNING, or NO VIOLATION — with the specific rule violated, confidence level, reasoning, and recommended judge action.
+The app returns a structured verdict: RED CARD, WARNING, or NO VIOLATION, with the specific rule violated, confidence level, reasoning, and recommended judge action.
 
 ---
 
