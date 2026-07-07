@@ -10,8 +10,8 @@
 
 CLAIRVOYANT analyzes race walking athlete movement descriptions and automatically detects rule violations based on World Athletics Laws — the same two rules enforced in Olympic competition:
 
-- **Loss of Contact** — both feet leaving the ground simultaneously
-- **Bent Knee** — advancing leg not straightened at ground contact
+- **Loss of Contact**: both feet leaving the ground simultaneously
+- **Bent Knee**: advancing leg not straightened at ground contact
 
 The app returns a structured verdict: RED CARD, WARNING, or NO VIOLATION — with the specific rule violated, confidence level, reasoning, and recommended judge action.
 
@@ -27,10 +27,10 @@ This Cloudflare Workers version brings that same domain expertise to a serverles
 
 ## Tech Stack
 
-- **Cloudflare Workers** — serverless edge deployment
-- **Cloudflare Workers AI** — Llama 3.3 70B instruct model
-- **TypeScript** — type-safe Worker implementation
-- **Wrangler** — CLI deployment and local development
+- **Cloudflare Workers**: serverless edge deployment
+- **Cloudflare Workers AI**: Llama 3.3 70B instruct model
+- **TypeScript**: type-safe Worker implementation
+- **Wrangler**: CLI deployment and local development
 
 ---
 
